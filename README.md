@@ -5,6 +5,7 @@ A Simple java Web-Crawler to crawl a root link and stroes the results in mysql d
 
 # Dependencies
 jsoup
+
 mysql-connector-java.j-8.10
 
 
